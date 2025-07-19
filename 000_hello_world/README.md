@@ -10,3 +10,9 @@ Criar um programa simples que imprime "Hello, World!" na tela, servindo como bas
 ```bash
 python hello.py
 ```
+
+## 🚀 Resultado
+
+```bash
+Hello World!
+```
