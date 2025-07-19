@@ -4,9 +4,9 @@ Repositório pessoal de estudos de Python com foco em automação, DevOps e scri
 
 ## 📁 Estrutura
 
-| Módulo                                  | Descrição                                         |
-|-----------------------------------------|---------------------------------------------------|
-| [`000_hello_world/`](./000_hello_world) | Imprimir Hello World                              |
-| *(Em breve)*                            | Outros módulos com automações, scripts cloud, etc |
+| Módulo                                 | Descrição                                         |
+|----------------------------------------|---------------------------------------------------|
+| [`000_hello_world`](./000_hello_world) | Imprimir Hello World                              |
+| *(Em breve)*                           | Outros módulos com automações, scripts cloud, etc |
 
 ---
