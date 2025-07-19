@@ -28,5 +28,3 @@ The integer part of 7.89 is 7.
 - Uso da função `input()` para capturar dados do usuário.
 - Conversão para `float` para aceitar números com ponto flutuante.
 - Utilização da função `math.trunc()` para obter apenas a parte inteira.
-
-> 💡 O Python oferece bibliotecas poderosas para cálculos e manipulação de dados com poucas linhas de código.
