@@ -1,6 +1,6 @@
 # 🐍 Hello World em Python
 
-Este é o primeiro exercício do repositório `lab-python`.
+---
 
 ## 🔥 Descrição
 A função `print()` é usada para instruir o Python a exibir uma saída na tela, normalmente no terminal. Sabemos que se trata de uma função porque utiliza parênteses para receber argumentos. Tudo o que for passado entre os parênteses será exibido como saída padrão.
